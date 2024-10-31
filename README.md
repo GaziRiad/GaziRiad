@@ -4,7 +4,7 @@ Hi 👋 My name is Riad Hallouch
 Web Developer
 -------------
 
-Passionate 22-years-old frontend developer and computer science student with over three years of coding experience. In love with creating seamless, visually stunning web experiences. 💻✨
+Passionate 23-years-old frontend developer and computer science student with over three years of coding experience. In love with creating seamless, visually stunning web experiences. 💻✨
 
 * 🌍  I'm based in Algeria
 * 🖥️  See my portfolio at [findriadhallouch](http://findriadhallouch.netlify.app)
