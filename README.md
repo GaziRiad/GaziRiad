@@ -9,7 +9,7 @@ Passionate 23-years-old frontend developer and computer science student with ove
 * 🌍  I'm based in Algeria
 * 🖥️  See my portfolio at [findriadhallouch](http://findriadhallouch.netlify.app)
 * ✉️  You can contact me at [ouhibimustapha36@gmail.com](mailto:riadhallouch447@gmail.com)
-* 🧠  I'm learning Backend development
+* 🧠  I'm mastering Backend development
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm a barça fan
 
