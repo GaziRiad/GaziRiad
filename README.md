@@ -11,7 +11,6 @@ Passionate 23-years-old frontend developer and computer science student with ove
 * ✉️  You can contact me at [ouhibimustapha36@gmail.com](mailto:riadhallouch447@gmail.com)
 * 🧠  I'm mastering Backend development
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I'm a barça fan
 
 <a href="https://www.github.com/GaziRiad" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/GaziRiad?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Riadh_Gazi" target="_blank" rel="noreferrer"><img
